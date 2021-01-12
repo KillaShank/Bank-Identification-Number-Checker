@@ -1,4 +1,4 @@
-# UNDER DEVELOPMENT
+###### Educational Purpose
 
 <h1 align="center">BIN Checker Using CPP</h1>
 
