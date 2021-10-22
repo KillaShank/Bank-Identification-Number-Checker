@@ -71,10 +71,8 @@ int main()
 	std::cout << std::endl << "1) SCHEME  : " + GET_SCHEME(StdOut);
 	std::cout << std::endl << "2) TYPE    : " + GET_TYPE(StdOut);
 	std::cout << std::endl << "3) COUNTRY : " + GET_COUNTRY(StdOut);
-	std::cout << std::endl << "3) ISSUER : " + GET_ISSUER(StdOut);
-	//std::cout << std::endl << "ISSUER		: " + GET_CURRENCY(StdOut);
-	//std::cout << std::endl << "PHONE		: " + GET_SCHEME(StdOut);
-	//std::cout << std::endl << "PHONE		: " + GET_SCHEME(StdOut);
+	std::cout << std::endl << "4) ISSUER : " + GET_ISSUER(StdOut);
+	std::cout << std::endl << "5) CURRENCY : " + GET_CURRENCY(StdOut);
 
 
 	std::cout << "\n\n\n\n" << StdOut;
